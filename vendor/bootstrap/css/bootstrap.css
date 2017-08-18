@@ -137,6 +137,18 @@ dl {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+.skillsbox h3{
+  margin-top: 1em;
+}
+.skills {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.skills li {
+  font-size: 3em;
+}
 
 ol ol,
 ul ul,
