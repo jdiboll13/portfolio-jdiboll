@@ -143,11 +143,12 @@ dl {
 .skills {
   display: flex;
   list-style: none;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
 }
 .skills li {
   font-size: 3em;
+  padding: .5em;
 }
 
 ol ol,
